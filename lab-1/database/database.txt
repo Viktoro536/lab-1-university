@@ -1,0 +1,74 @@
+Student OlgaPopruzhenko
+{name: Olga
+surname: Popruzhenko
+course: 2
+hobby: Walk
+student card: KV12432000
+id code: 0101010101 }
+
+Student OlenaKazpiv
+{name: Olena
+surname: Kazpiv
+course: 3
+hobby: Read
+student card: KV12432001
+id code: 0101010102 }
+
+
+Student KirillGropin
+{name: Kirill
+surname: Gropin
+course: 1
+hobby: Game
+student card: KV12432002
+id code: 0101010103 }
+
+
+Courier VovaPopruzhenko
+{name: Vova
+surname: Popruzhenko
+product: 13452134
+hobby: Game
+delivery address: проспектПобеды103
+id code: 0000000000 }
+
+Courier LenaKihinas
+{name: Lena
+surname: Kihinas
+product: 13452133
+hobby: Walk
+delivery address: проспектПобеды105
+id code: 0000000001 }
+
+Courier KiraLonera
+{name: Kira
+surname: Lonera
+product: 1
+hobby: Smoke
+delivery address: проспектПобеды108
+id code: 0000000002 }
+
+Fireman AlexKhomenko
+{name: Alex
+surname: Khomenko
+fireman certificate number: 9823512
+hobby: Read
+call address: проспектМеталургов14
+id code: 9999999999 }
+
+Fireman GenaLemka
+{name: Gena
+surname: Lemka
+fireman certificate number: 9872357
+hobby: Walk
+call address: проспектМеталургов76
+id code: 9999999934 }
+
+Fireman RomaKorunka
+{name: Roma
+surname: Korunka
+fireman certificate number: 9876324
+hobby: Game
+call address: проспектМеталургов19
+id code: 9999999921 }
+

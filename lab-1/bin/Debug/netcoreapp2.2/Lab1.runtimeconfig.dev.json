@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vsodo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vsodo\\.nuget\\packages"
+    ]
+  }
+}
